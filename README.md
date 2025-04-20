@@ -1,0 +1,3 @@
+Тестовый проект на базе Node.js c fastify. При запуске сервера по адресу [::1]:3000 (IPv6) загружается главная страница со строкой поиска и всеми пользователями из локальной базы данных в JSON. При поиске список фильтруется по всем найденным совпадениям в записях. При нажатии на карточку пользователя открывается диалоговое окно с подробной информацией о нем.
+
+Test project based on Node.js with fastify. When the server is launched at [::1]:3000 (IPv6), the main page with a search bar and all users from the local database in JSON is loaded. When searching, the list is filtered by all matches found in the records. When clicking on a user card, a dialog box with detailed information about him/her opens.
